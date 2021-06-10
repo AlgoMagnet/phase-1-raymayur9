@@ -1,4 +1,7 @@
                                      *****************************  This is a documentation  *****************************
 
 
-9th June 2021 -----> Got introduced about Git & GitHub, tried & added an HTML file, later deleted it.
+
+ 9th June 2021 -----> Got introduced about Git & GitHub, tried & added an HTML file, later deleted it.
+10th June 2021 -----> Created this documentation in .txt file format. Learnt more about repositories, creating, cloning, and archiving them; repository visibility 
+                      and various permission levels; size limits of repositories and individual files. Also got to know about README's and their usefulness.
