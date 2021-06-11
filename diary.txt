@@ -6,3 +6,4 @@
 10th June 2021 -----> Created this documentation in .txt file format. Learnt more about repositories, creating, cloning, and archiving them; repository 
                       visibility and various permission levels; size limits of repositories and individual files. Also got to know about README's and their 
                       usefulness.
+11th June 2021 -----> Came to know about pull requests, squashing commits when merging a pull request, issues and our very own user profile.
