@@ -7,3 +7,5 @@
                       visibility and various permission levels; size limits of repositories and individual files. Also got to know about README's and their 
                       usefulness.
 11th June 2021 -----> Came to know about pull requests, squashing commits when merging a pull request, issues and our very own user profile.
+12th June 2021 -----> Got to know about Markdown and the various formatting styles, the GitHub community and various ways of interaction. And learnt more 
+                      about the GitHub workflow - branching, cloning and forking.
