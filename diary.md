@@ -28,7 +28,7 @@
 
 **13th June 2021**
 - Created the second version of this documentation in .md format.
-- Opened a pull request.
+- Couldn't find a way to open pull request.
 
 
 - [x] Assignment completed!! 😄
