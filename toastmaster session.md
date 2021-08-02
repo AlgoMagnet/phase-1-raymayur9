@@ -1,7 +1,7 @@
 ## <p align="center">Toastmaster Session</p>
 
 **General rules for an ideal session**
-- We shoulld keep oursleves muted unless we're the speaker.
+- We should keep oursleves muted unless we're the speaker.
 - We should keep our camera on and in a proper angle, so that the session remains interactive and productive.
 - We should either avoid or speak cautiously and responsibly on sensitive topics like sex, religion, politics, etc.
 - We should always give applause by waving hands or signing claps.
