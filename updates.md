@@ -31,8 +31,13 @@
 
 **3rd August 2021**
 - Saw a recursion lecture and [documented](https://github.com/cleanhand/phase-1-raymayur9/tree/main/C%20Programming/Recursion) it.
+- Had some progress on "Learning How To Learn".
 - Read about the [Minesweeper problem](https://ankitkeshavdbg.github.io/MineSweeper/) and had some initial thoughts.
 
 **4th August 2021**
+- Had some progress on "Learning How To Learn".
 - Saw remaining 3 recursion lectures and [documented](https://github.com/cleanhand/phase-1-raymayur9/tree/main/C%20Programming/Recursion) them.
 - Gone through the [Mini Pokédex in C](https://ankitkeshavdbg.github.io/Poka/) assignment (that is based on Linked List) and completed stage 1 of it.
+
+**5th August 2021**
+- Had some progress on "Learning How To Learn".
