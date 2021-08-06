@@ -32,7 +32,7 @@
 **3rd August 2021**
 - Saw a recursion lecture and [documented](https://github.com/cleanhand/phase-1-raymayur9/tree/main/C%20Programming/Recursion) it.
 - Had some progress on "Learning How To Learn".
-- Read about the [Minesweeper problem](https://ankitkeshavdbg.github.io/MineSweeper/) and had some initial thoughts.
+- Read about the [Minesweeper problem](https://ankitkeshavdbg.github.io/MineSweeper/) and had [some initial thoughts](https://github.com/cleanhand/phase-1-raymayur9/blob/main/Minesweeper/journey.md).
 
 **4th August 2021**
 - Had some progress on "Learning How To Learn".
@@ -41,3 +41,7 @@
 
 **5th August 2021**
 - Had some progress on "Learning How To Learn".
+
+**6th August 2021**
+- Completed week 1 of "Learning How To Learn", yay! 🎉
+- Refined my ideas on [Minesweeper problem](https://github.com/cleanhand/phase-1-raymayur9/blob/main/Minesweeper/journey.md).
