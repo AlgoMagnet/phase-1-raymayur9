@@ -28,6 +28,6 @@ and all of its neighbouring unrevealed cells should be revealed recursively.
   - First move can be made safe in single player (the proper way is yet to be figured out), but it can't be done in case of multiplayer, as we can neither change the mine field as set by one of the two players, nor give any hint to the other.
   - In case of multiplayer, I will print around 1000 lines of `Making Mine Field`, in order to hide the input of the first player who was placing the mines.
 
-**4rth August 2021**
+**7th August 2021**
 - I refined one of my ideas again. Since first move is always safe in a traditional Minesweeper game (as it's a logic based game, not a luck based one), so the same will be followed for multiplayer too. In case the second player chooses a cell containing a mine in the first go, then the position of the mine will be altered automatically, & will be placed in a random new location.
 - This can be made better by taking one extra input from the first player, so that the mine can be placed in that extra position, if required.
