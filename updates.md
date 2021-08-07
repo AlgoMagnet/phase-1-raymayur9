@@ -45,3 +45,8 @@
 **6th August 2021**
 - Completed week 1 of "Learning How To Learn", yay! 🎉
 - Refined my ideas on [Minesweeper problem](https://github.com/cleanhand/phase-1-raymayur9/blob/main/Minesweeper/journey.md).
+
+**7th August 2021**
+- Started week 2 of "Learning How To Learn".
+- Had my prepared speech on the theme "Travelling" on our first toastmaster session.
+- Changed one of my ideas again on [Minesweeper problem](https://github.com/cleanhand/phase-1-raymayur9/blob/main/Minesweeper/journey.md).
