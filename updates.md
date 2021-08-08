@@ -48,5 +48,9 @@
 
 **7th August 2021**
 - Started week 2 of "Learning How To Learn".
-- Had my prepared speech on the theme "Travelling" on our first toastmaster session.
+- Had my prepared speech on the theme "Travelling" on our first toastmaster session from CleanHand Intermediate. Scopes of improvement : time limit & pace, stick to the topic, body gestures & facial expressions.
 - Changed one of my ideas again on [Minesweeper problem](https://github.com/cleanhand/phase-1-raymayur9/blob/main/Minesweeper/journey.md).
+
+**8th August 2021**
+- Had some progress on "Learning How To Learn".
+- Read more about [Minesweeper](https://itp.uni-frankfurt.de/~mwagner/teaching/C_WS17/projects/Minesweeper.pdf).
