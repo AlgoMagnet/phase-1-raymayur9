@@ -31,3 +31,6 @@ and all of its neighbouring unrevealed cells should be revealed recursively.
 **7th August 2021**
 - I refined one of my ideas again. Since first move is always safe in a traditional Minesweeper game (as it's a logic based game, not a luck based one), so the same will be followed for multiplayer too. In case the second player chooses a cell containing a mine in the first go, then the position of the mine will be altered automatically, & will be placed in a random new location.
 - This can be made better by taking one extra input from the first player, so that the mine can be placed in that extra position, if required.
+
+**8th August 2021**
+- Read more about [Minesweeper](https://itp.uni-frankfurt.de/~mwagner/teaching/C_WS17/projects/Minesweeper.pdf).
