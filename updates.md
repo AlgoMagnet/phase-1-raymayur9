@@ -54,3 +54,16 @@
 **8th August 2021**
 - Had some progress on "Learning How To Learn".
 - Read more about [Minesweeper](https://itp.uni-frankfurt.de/~mwagner/teaching/C_WS17/projects/Minesweeper.pdf).
+
+**9th August 2021**
+- Had some progress on "Learning How To Learn".
+
+**10th August 2021**
+- Had some progress on "Learning How To Learn".
+
+**11th August 2021**
+- Completed week 2 of "Learning How To Learn", yay! 🎉
+- Started implementing the Minesweeper game.
+
+**12th August 2021**
+- Completed the Minesweeper game, [documented and published](https://github.com/cleanhand/phase-1-raymayur9/tree/main/Minesweeper) it.
