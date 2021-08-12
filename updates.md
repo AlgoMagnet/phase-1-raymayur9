@@ -67,3 +67,4 @@
 
 **12th August 2021**
 - Completed the Minesweeper game, [documented and published](https://github.com/cleanhand/phase-1-raymayur9/tree/main/Minesweeper) it.
+- [Why should I learn assembly language in 2020? (complete waste of time?](https://youtu.be/iYRl50gtprA)
