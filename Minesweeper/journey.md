@@ -34,3 +34,10 @@ and all of its neighbouring unrevealed cells should be revealed recursively.
 
 **8th August 2021**
 - Read more about [Minesweeper](https://itp.uni-frankfurt.de/~mwagner/teaching/C_WS17/projects/Minesweeper.pdf).
+
+**11th August 2021**
+- Started implementing the game.
+
+**12th August 2021**
+- Completed implementation and writing the code.
+- Documented everything and published it in its parent folder.
